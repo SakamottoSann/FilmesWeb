@@ -1,11 +1,17 @@
-# filmes_web
+# Filmes_Web
 
-## Project setup
+## Instalando Dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Build 
+
+npm run build
+
+## Execução 
 ```
 npm run serve
 ```
+## Status 
+:white_check_mark: Finalizado!
